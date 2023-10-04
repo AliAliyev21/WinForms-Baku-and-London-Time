@@ -13,7 +13,7 @@ namespace WindowsFormsApp5
     public partial class Form1 : Form
     {
         Timer timer=new Timer();
-        bool isBaku=false;
+        bool isBaku=true;
 
         public Form1()
         {
